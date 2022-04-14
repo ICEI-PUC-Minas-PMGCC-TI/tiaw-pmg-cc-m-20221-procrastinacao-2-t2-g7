@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Procrastinação
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Bernardo Marques Fernandes
+> - Carolina Morais Nigri
+> - Gabriel Praes Bernardes Nunes
+> - Igor Vilela Nunes da Rocha Godinho
+> - Ivan Pereira Reis Nascimento
+> - Joao Paulo Leao Matos
+> - Saulo de Moura Zandona Freitas
 
 # Estrutura do Documento
 

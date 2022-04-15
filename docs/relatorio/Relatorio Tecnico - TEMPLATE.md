@@ -225,11 +225,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                                                |
-|--|--------------------------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre                    |
-|02| Não pode ser desenvolvido um módulo de backend                           |
-|03| devemos ter uma evolução individual semanal en relação ao projeto        |
+|ID| Restrição                                                                         |
+|--|-----------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                             |
+|02| Não pode ser desenvolvido um módulo de backend                                    |
+|03| devemos ter uma evolução individual semanal en relação ao projeto                 |
+|04| O projeto deve ter um foco inicial em ajudar os estudantes que procastinam        |
+|05| A equipe não pode subcontratar o desenvolvimento do trabalho                      |
+|06| não podemos ultrapassar os prazos de entrega dos sprints no canvas                |
+|07| inicialmente o projeto deve ser feito em HMTL, CSS e JS                           |
+|08| a aplicação deve ser simples e de fácil acesso para o usuário                     |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições

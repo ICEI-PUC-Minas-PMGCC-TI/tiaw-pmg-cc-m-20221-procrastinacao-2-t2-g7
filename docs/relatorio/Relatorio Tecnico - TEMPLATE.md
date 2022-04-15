@@ -166,19 +166,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|João Gabriel  | Anotar meus afazeres           | Deixar tudo organizado               |
+|João Gabriel  | Organizar minhas tarefas em ordem de importância           | Saber qual que eu tenho de fazer primeiro e quais eu posso deixar para mais tarde               |
+|João Gabriel  | Colocar alarmes na hora das atividades           | Seguir os horários e acabar com a procrastinação               |
+|João Gabriel  | Ser motivado de alguma forma           | Ter um motivo a mais para eu me organizar               |
+|Rafaela       | Registrar minha rotina                 | Me manter organizada |
+|Rafaela       | Ter tudo no meu celular                 | Saber o que eu tenho que fazer de forma rápida, sem ter que ligar o computador, porque o celular está sempre comigo |
+|Rafaela       | Fazer anotações em cada compromisso                 | Me organizar de uma forma mais precisa |
 
 ## Requisitos
 

@@ -9,14 +9,14 @@ Ciência da Computação
 
 ## Participantes
 
-> Os membros do grupo são: 
-> - Bernardo Marques Fernandes
-> - Carolina Morais Nigri
-> - Gabriel Praes Bernardes Nunes
-> - Igor Vilela Nunes da Rocha Godinho
-> - Ivan Pereira Reis Nascimento
-> - Joao Paulo Leao Matos
-> - Saulo de Moura Zandona Freitas
+Os membros do grupo são: 
+- Bernardo Marques Fernandes
+- Carolina Morais Nigri
+- Gabriel Praes Bernardes Nunes
+- Igor Vilela Nunes da Rocha Godinho
+- Ivan Pereira Reis Nascimento
+- Joao Paulo Leao Matos
+- Saulo de Moura Zandona Freitas
 
 # Estrutura do Documento
 

@@ -182,8 +182,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Possuir uma tela de login. | ALTA | 
+|RF-002| Possuir um sistema de recompensas. | MÉDIA |
+|RF-003| Ter um menu inicial com opções de navegacao. | ALTA |
+|RF-004| O site deve permitir que o usuário acesse um menu com suas tarefas. | ALTA |
+|RF-005| Permitir que o usuário veja e edite suas informações de perfil. | MÉDIA |
+|RF-006| Permitir compartilhamento de informações em redes sociais. | BAIXA |
+|RF-007| Possuir uma página de comunidade. | BAIXA |
+|RF-008| Possuir uma tela de FAQ. | BAIXA |
+|RF-009| Permitir acessar informações gerais sobre o site. | MÉDIA |
+|RF-010| Permitir configurar notificações. | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -191,7 +199,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O site deve ser fácil de navegar. | ALTA | 
+|RNF-003| Ser publicado em ambientes de fácil acesso na internet. | ALTA |  
+|RNF-004| Ser compatível com os principais navegadores. | ALTA |
+|RNF-005| Processar requisitos do usuário em menos de 3s. | BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:

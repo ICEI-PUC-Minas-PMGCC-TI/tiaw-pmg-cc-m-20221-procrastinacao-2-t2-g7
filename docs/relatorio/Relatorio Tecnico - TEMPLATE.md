@@ -301,7 +301,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-A metodologia para a produção deste projeto se baseia no Design Thinking, processo utilizado para entender, explorar e materializar o problema e sua solução. Além disso, foi adotada a metodologia ágil do Scrum para a organização da equipe e gerenciamento do projeto, assim como o controle de versão do Git por meio do GitHub.
+A metodologia para a produção deste projeto se baseia no Design Thinking, processo utilizado para entender, explorar e materializar o problema e sua solução. Além disso, foi adotada a metodologia ágil do Scrum para a organização da equipe e gerenciamento do projeto, assim como o controle de versão usando Git hospedado no GitHub com a metodologia Git Feature Branch Workflow.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -321,7 +321,14 @@ A metodologia para a produção deste projeto se baseia no Design Thinking, proc
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- Scrum Master: 
+- Product Owner: 
+- Equipe:
+  - 
+  - 
+  - 
+  - 
+  - 
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -336,16 +343,16 @@ Ferramentas empregadas no projeto:
 
 - Miro, para o Processo de Design Thinking: facilidade de edição simultânea e em equipe
 - GitHub, para o Repositório de código: ferramenta muito utilizada por facilitar a colaboração e compartilhamento do código pela equipe
-- Creately, InVisionApp e Photoshop, para o Projeto de Interface: as duas primeiras pela facilidade de uso e a última por haver afinidade de uso por membro da equipe. São ferramentas bastante versáteis e flexíveis, dão uma boa agilidade para produzir um resultado satisfatório de forma rápida.  Photoshop, apesar de não ser tão prático e fácil de usar, é uma ferramenta de infinitas possibilidades de resultado gráfico, que demanda mais tempo de trabalho mas funciona muito bem. 
-- Trello, para o Gerenciamento do Projeto: escolhida por haver afinidade de uso por membro da equipe e possuir funcionalidades muito úteis para a organização da equipe, permitindo a atribuição de tarefas para cada membro, a determinação de prazos e a categorização por meio de etiquetas
+- Creately, InVisionApp e Photoshop, para o Projeto de Interface: as duas primeiras pela facilidade de uso e a última por haver afinidade de uso por membro da equipe. São ferramentas bastante versáteis e flexíveis, dão uma boa agilidade para produzir um resultado satisfatório de forma rápida. O Photoshop, apesar de não ser tão prático e fácil de usar, é uma ferramenta de infinitas possibilidades de resultado gráfico, que demanda mais tempo de trabalho mas funciona muito bem. 
+- Trello, para o Gerenciamento do Projeto: escolhida por haver afinidade de uso por membro da equipe e possuir funcionalidades muito úteis para a organização da equipe, permitindo, por exemplo, a atribuição de tarefas para cada membro, a determinação de prazos e a categorização por meio de etiquetas
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinking  | Miro |  https://miro.com/app/board/uXjVOB6EAuA=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-procrastinacao-2-t2-g7 | 
 |UserFlow | Creately |  https://embed.creately.com/DmH9egf6F2W?token=DWEE2GmCAIjWwL5N&type=svg | 
-|Wireframe | InVisionApp | encr.pw/Epyek encr.pw/Pq7fa | 
-|Gerenciamento do Projeto | Trello | https://trello.com/b/JfWIrgmI/gest%C3%A3o-do-projeto | 
+|Wireframe | InVisionApp | [encr.pw/Epyek](encr.pw/Epyek) [encr.pw/Pq7fa](encr.pw/Pq7fa) | 
+|Gerenciamento do Projeto | Trello | https://trello.com/b/JfWIrgmI/gest%C3%A3o-do-projeto |  
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -372,7 +379,17 @@ Ferramentas empregadas no projeto:
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O controle de versão será feito utilizando o Git hospedado no GitHub. 
+As tags serão usadas para nomear versões funcionais da aplicação, a partir dos testes a serem feitos. 
+
+Os branchs serão nomeados como: 
+-`master`: parte estável do projeto
+-`dev`: partes do projeto em desenvolvimento 
+
+As issues seguirão a seguinte convenção:
+- `bug`: apontar erros e problemas na aplicação
+- `enhancement`: sugerir melhorias para a aplicação
+- `feature`: propor novas funcionalidades para a aplicação
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,

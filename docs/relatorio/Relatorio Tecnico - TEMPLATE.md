@@ -15,7 +15,7 @@ Os membros do grupo são:
 - Gabriel Praes Bernardes Nunes
 - Igor Vilela Nunes da Rocha Godinho
 - Ivan Pereira Reis Nascimento
-- Joao Paulo Leao Matos
+- João Paulo Leao Matos
 - Saulo de Moura Zandona Freitas
 
 # Estrutura do Documento
@@ -125,13 +125,15 @@ Os membros do grupo são:
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para a construção do projeto, passou-se por um processo de entendimento e exploração do problema, criando duas personas que representem grupos diferentes dentro do público-alvo escolhido, pensando nas suas necessidades humanas e enquanto usuários. Por fim, enumerou-se os requisitos da aplicação, funcionais e não funcionais, além de restrições para o seu desenvolvimento.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
 > realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
+
+As personas criadas durante o processo de Design Thinking são apresentadas abaixo:
 
 ![image](images/Persona1.jpg)
 ![image](images/Persona2.jpg)
@@ -162,7 +164,7 @@ Os membros do grupo são:
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
@@ -234,12 +236,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-----------------------------------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre                             |
 |02| Não pode ser desenvolvido um módulo de backend                                    |
-|03| devemos ter uma evolução individual semanal en relação ao projeto                 |
+|03| Devemos ter uma evolução individual semanal en relação ao projeto                 |
 |04| O projeto deve ter um foco inicial em ajudar os estudantes que procastinam        |
 |05| A equipe não pode subcontratar o desenvolvimento do trabalho                      |
-|06| não podemos ultrapassar os prazos de entrega dos sprints no canvas                |
-|07| inicialmente o projeto deve ser feito em HMTL, CSS e JS                           |
-|08| a aplicação deve ser simples e de fácil acesso para o usuário                     |
+|06| Não podemos ultrapassar os prazos de entrega dos sprints no canvas                |
+|07| Inicialmente o projeto deve ser feito em HMTL, CSS e JS                           |
+|08| A aplicação deve ser simples e de fácil acesso para o usuário                     |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -252,7 +254,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+A interface da aplicação foi construída de forma a atender à necessidade dos usuários de se registrar as tarefas a serem cumpridas, organizando-as de acordo com seus respectivos prazos e níveis de prioridades. Para tanto, a página permite ao usuário cadastrar seu perfil e acompanhar sua fila de tarefas, além de possibilitar uma integração com a comunidade, FAQ e compartilhamento em redes sociais.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -260,6 +262,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > Projeto](#especificações-do-projeto).
 
 ## User Flow
+
+O diagrama abaixo apresenta o fluxo do usuário na aplicação:
 
 ![image](images/UserFlowConcluído.png)
 
@@ -279,6 +283,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 ## Wireframes
+
+Os wireframes apresentados abaixo representam a página inicial e a página da fila de tarefas da aplicação:
 
 ![image](images/HomePageWireframe.png)
 ![image](images/PáginadaFerramenta.png)
@@ -321,14 +327,16 @@ A metodologia para a produção deste projeto se baseia no Design Thinking, proc
 
 ## Divisão de Papéis
 
-- Scrum Master: 
-- Product Owner: 
-- Equipe:
-  - 
-  - 
-  - 
-  - 
-  - 
+Adotando a metodologia ágil Scrum, a equipe será dividida segundo os seguintes papéis:
+
+- Scrum Master: Carolina Morais Nigri
+- Product Owner: João Paulo Leao Matos
+- Equipe: 
+  - Bernardo Marques Fernandes
+  - Gabriel Praes Bernardes Nunes
+  - Igor Vilela Nunes da Rocha Godinho
+  - Ivan Pereira Reis Nascimento
+  - Saulo de Moura Zandona Freitas
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -379,12 +387,14 @@ Ferramentas empregadas no projeto:
 
 ## Controle de Versão
 
-O controle de versão será feito utilizando o Git hospedado no GitHub. 
-As tags serão usadas para nomear versões funcionais da aplicação, a partir dos testes a serem feitos. 
+O controle de versão será feito utilizando o Git hospedado no GitHub, adotando a metodologia Git Feature Branch Workflow. 
 
-Os branchs serão nomeados como: 
--`master`: parte estável do projeto
--`dev`: partes do projeto em desenvolvimento 
+As tags serão usadas para nomear versões funcionais da aplicação, verificadas a partir dos testes a serem feitos.
+
+As branchs serão feitas da seguinte forma: a partir da `master`, a branch principal, será criada a branch `dev`, onde será feito o desenvolvimento, e a partir desta serão criadas as branchs `feature`, para as funcionalidades a serem desenvolvidas. Após serem testadas, as `feature` farão merge na `dev`, e quando terminado o desenvolvimento, retornarão à `master`. 
+- `master`: parte estável do projeto 
+- `dev`: partes do projeto em desenvolvimento
+- `feature`: funcionalidades em desenvolvimento
 
 As issues seguirão a seguinte convenção:
 - `bug`: apontar erros e problemas na aplicação

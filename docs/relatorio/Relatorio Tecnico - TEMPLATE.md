@@ -57,7 +57,7 @@ Os membros do grupo são:
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A procrastinação é um grande problema que envolve uma quantidade enorme de pessoas, trata-se do ato de protelar/adiar, onde, muitas vezes, envolve tarefas muito importantes que acabam sendo abandonadas, como um trabalho importante de escola, ou uma tarefa bem requisitada no trabalho. O ato de procrastinar é natural do ser humano, mas ao longo do tempo, esse problema tem se agravado bastante graças ao fácil acesso a distrações, como as redes sociais (que costumam gastar grande parte do tempo das pessoas), séries, filmes, jogos... Além do problema da distração, a falta de organização e planejamento também contribuem muito para que atividades importantes acabem ficando para trás, principalmente no caso de pessoas que tem um tempo restrito para fazer muitas coisas. 
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -77,7 +77,13 @@ Os membros do grupo são:
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso objetivo nesse trabalho é ajudar a população que sofre desse problema a se organizar melhor, a se manter motivado a cumprir suas tarefas e a ter um planejamento, como um cronograma semanal ou uma agenda de compromissos interativa, para que assim, essa pessoa possa entender melhor o que fazer, como/quando fazer e ser mais produtiva, conseguindo até mesmo fazer um número de atividades maior em menos tempo.
+
+Tendo isso em vista, o objetivo geral deste projeto é desenvolver uma aplicação Web que auxilie o usuário a se organizar e evitar a procrastinação. Já os objetivos específicos são:
+- Fazer com que a tecnologia (computador, celular ou tablet) seja uma forma de resolver o problema da procrastinação, ao invés de ser uma causa dela
+- Fornecer uma plataforma de fácil e rápido uso para que o ato de se planejar não se torne uma tarefa que consuma muito tempo e energia do usuário
+- Auxiliar, em especial, estudantes universitários a registrarem suas tarefas e cumprirem seus prazos de entrega
+
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -90,7 +96,9 @@ Os membros do grupo são:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Planejamento e organização são elementos de alta importância na vida humana, especialmente no mundo atual, em que temos uma série de deveres a cumprir para com a sociedade e com nós mesmos, o que nem sempre é alcançado da melhor e mais completa forma. Levando isso em conta, este projeto busca tornar esses elementos mais presentes na vida e rotina daqueles que utilizarem esta aplicação, facilitando a tarefa de fazer planejamentos e se organizar, de forma a tornar isso um hábito e evitar a procrastinação. 
+
+Segundo reportagem publicada na revista Super Interessante, estudos mostram que 20% dos adultos são procrastinadores crônicos, dado que representa, somente no Brasil, cerca de 20 milhões de pessoas. Nesse sentido, consideramos que o jovem adulto, especialmente os estudantes universitários, está entre aqueles que mais procrastinam e sente essa dificuldade em se organizar, visto que este é um público que tem diversas tarefas acadêmicas a realizar e, ao mesmo tempo, quer aproveitar esse período da vida enquanto jovem, sendo, portanto, um bom público a quem se destinar este projeto. 
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -106,7 +114,7 @@ Os membros do grupo são:
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público-alvo é, principalmente, estudantes universitários que tem dificuldade de se organizar e manter uma disciplina e estudantes que além de estudar trabalham, necessitando de uma organização melhor do tempo para conseguir realizar todas as suas tarefas. Dividindo o público-alvo trabalhado nesses dois grupos, busca-se observar como eles lidam com a organização e a procrastinação em suas vidas, considerando que, provavelmente, a falta de tempo daqueles que trabalham possa afetar mais sua rotina enquanto outras causas possíveis sejam impedimentos para aqueles que apenas estudam. Observadas as causas e analisando as diferentes rotinas desse público, busca-se oferecer ferramentas que se adequem às diferentes necessidades desses usuários.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os

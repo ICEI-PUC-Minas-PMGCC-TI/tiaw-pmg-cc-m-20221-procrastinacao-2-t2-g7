@@ -445,20 +445,19 @@ As issues seguirão a seguinte convenção:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**TaskMaster**
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As linguagens usadas para a programação do site foram HTML, CSS e JavaScript. Utilizamos muitas ferramentas: Miro, GitHub, Visual Studio Code, Replit e Trello (que não usamos tanto quanto os outros), e para comunicação utilizamos o Whatsapp e o Discord. Usamos os seguintes sites de apoio: Font Awesome, Google Fonts, o framework Booststrap, além da biblioteca jQuery.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
+O Miro e o Trello foram usados para o planejamento do projeto, no início do trabalho. O GitHub para a documentação do projeto, o VSCode para a programação das páginas em si, e  o Replit para a hospedagem do site. Fizemos chamadas pelo Discord para resolver assuntos do trabalho e no Whatsapp, fizemos um grupo para nos comunicarmos mais facilmente. O Font Awesome, Google Fonts, o framework Booststrap, e a biblioteca jQuery foram utilizados na hora da programação das páginas, para melhorar tanto estéticamente quanto interatvamente.
+
+**User Flow**
+
+![User Flow atualizado](images/UserFlowAtualizadoParteFinal.png)
+
+
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado

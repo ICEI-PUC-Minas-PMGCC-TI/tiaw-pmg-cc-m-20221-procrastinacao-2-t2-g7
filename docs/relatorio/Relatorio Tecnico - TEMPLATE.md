@@ -466,15 +466,9 @@ As issues seguirão a seguinte convenção:
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+O HTML, CSS e JavaScript foram usados em conjunto para fazer a programação do site em si. Foi mandado para o Local Storage o registro das tarefas/eventos cadastrados pelo usuário e também o cadastro do próprio usuário. Daí foi mandado para a Internet, e hospedado no site do Replit, que é um site que permite que os usuários criem projetos e escrevam código em várias linguagens.
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
-
+![Diagrama](images/diagrama.png) 
 
 # Avaliação da Aplicação
 

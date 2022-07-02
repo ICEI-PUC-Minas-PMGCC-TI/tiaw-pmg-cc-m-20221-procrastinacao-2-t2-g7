@@ -457,11 +457,65 @@ O Miro e o Trello foram usados para o planejamento do projeto, no início do tra
 
 ![User Flow atualizado](images/UserFlowAtualizadoParteFinal.png)
 
+Esta página abaixo é a principal/inicial do site, onde é falado um pouco sobre procrastinação, fala sobre o que é procrastinação em si e algumas causas dela.
+Na parte de navegação (parte de cima do site) há 8 possibilidades e é importante dizer que essa aba é a mesma em todas as páginas do site. Se você clica em "TaskMaster" você é direcionado para essa página inicial. "Login" te leva para a parte de login, "Registre-se" te leva para a parte de cadastro de usuário. Essas três páginas estão abaixo. Importante dizer que apenas depois de cadastrado e logado, é possível acessar as páginas de tarefas, eventos, perfil e consequentemente da loja de recompensas.
 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+**Página principal**
+
+![Página principal](images/pagInicial.png)
+
+
+**Página de login**
+
+![Página de login](images/pagLogin.png)
+
+
+**Página de cadastro**
+
+![Página de cadastro](images/pagCadastro.png)
+
+
+Abaixo está a página de tarefas, onde você pode cadastrar seus afazeres cotidianos, excluir e alterar suas tarefas.
+
+**Página de tarefas**
+
+![Página de tarefas](images/pagTarefas.png)
+
+
+Esta é a página de Eventos, que foi feita para você organizar seus eventos, que não são cotidianos, mas você quer deixar anotado em algum lugar para não esquecer.
+
+**Página de eventos**
+
+![Página de eventos](images/pagEventos.png)
+
+
+Esta é a página de perfil, bem simples, que contém seus dados.
+
+**Página de perfil**
+
+![Página de perfil](images/pagPerfil.png)
+
+
+Apenas através da página de perfil é possível acessar a loja de recompensas, que nela você pode alterar a cor de fundo, estilo e cor da fonte.
+
+**Página da loja de recompensas**
+
+![Página da loja de recompensas](images/pagRecompensas.png)
+
+
+A página abaixo é a de FAQ, onde algumas dúvidas acerca do site são tiradas. 
+
+**Página de FAQ**
+
+![Página de FAQ](images/pagFAQ.png)
+
+
+E esta é a última página, que fala sobre nós, os criadores do TaskMaster.
+
+**Página sobre nós**
+
+![Página sobre nós](images/pagSobreNos.png)
+
 
 ## Arquitetura da solução
 

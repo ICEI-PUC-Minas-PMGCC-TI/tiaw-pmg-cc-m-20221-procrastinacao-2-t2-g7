@@ -525,7 +525,7 @@ O HTML, CSS e JavaScript foram usados em conjunto para fazer a programação do 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nossa aplicação é composta por páginas estáticas de informações que podem ser acessadas sem estar logado ou registrado no site, como página inicial, F.A.Q. e Sobre nós, que podem ser visualizadas clicando, respectivamente, na logo do site e nas opções do menu. Além disso, ao criar uma conta e logar, o usuário pode acessar páginas dinâmicas, como Tarefas, Eventos, Meu perfil e Loja de Recompensas. Nas páginas citadas, o usuário poderá cadastrar, alterar e excluir seus eventos e suas tarefas, ganhando pontos ao concluí-los, que podem ser usados na Loja de Recompensas, sendo que todas essas informações ficam salvas localmente em sua conta. 
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -533,7 +533,15 @@ O HTML, CSS e JavaScript foram usados em conjunto para fazer a programação do 
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|#| Cenário | Pré-Condições | Ações |
+|--|--------|---------------|-------|
+|1| Abertura do Site | Em um desktop, notebook, celular ou tablet | Conferir a visualização da página |
+|2| Menu | Visualizar parte de cima do site dedicada a abrir novas páginas | Clique em qualquer uma |
+|3| Cadastro de Usuário | “Login/Registre-se” | Clique na opção de “Login/Registre-se” |
+|4| Eventos | Estar logado e abrir a página de Eventos no menu | Cadastrar, alterar ou excluir eventos |
+|5| Tarefas | Estar logado e abrir a página de Tarefas no menu | Cadastrar, alterar ou excluir tarefas |
+|6| Sistema de Recompensas | Estar logado e abrir a página de Eventos/Tarefas no menu | Concluir eventos/tarefas |
+|7| Loja de Recompensas | Estar logado e abrir "Meu perfl" | Clicar em "Loja de Recompensas" |
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -557,7 +565,15 @@ O HTML, CSS e JavaScript foram usados em conjunto para fazer a programação do 
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|#| Cenário | Resultados | 
+|--|--------|---------------|
+|1| Abertura do Site | Encontrará um site com uma página inicial informativa, menu com opções para clicar e possibilidade de se logar/registrar como usuário, responsivo e bem organizado |
+|2| Menu | Será redirecionado para a página da opção que clicou |
+|3| Cadastro de Usuário | Será redirecionado para a página de login ou de registro, podendo armazanar seus dados localmente |
+|4| Eventos | A visualização na tela de eventos será alterada, removendo eventos concluídos, adicionando eventos cadastrados e modificando eventos alterados |
+|5| Tarefas | A visualização na tela de tarefas será alterada, removendo tarefas concluídas, adicionando tarefas cadastradas e modificando tarefas alteradas |
+|6| Sistema de Recompensas | Ao concluir um evento ou tarefa, os "taskpoints" do usuário serão alterados |
+|7| Loja de Recompensas | Será mostrada a loja de recompensas, com a "taskwallet" do usuário e seus "taspoints", que podem ser usados para comprar estilos diferentes para a página |
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
@@ -567,7 +583,9 @@ O HTML, CSS e JavaScript foram usados em conjunto para fazer a programação do 
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+- [Procrastinação: como mudar o hábito de procrastinar?](https://www.vittude.com/empresas/procrastinacao/)
+- [Fluxo de trabalho de Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Scrum — o que é, como funciona e por que é incrível - Atlassian](https://www.atlassian.com/br/agile/scrum)
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
